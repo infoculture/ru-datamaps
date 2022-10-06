@@ -1,28 +1,28 @@
-# Data discovery maps of Russian open data / Карты поиска данных для российских общедоступных данных
+# Data discovery maps of Russian open data / РљР°СЂС‚С‹ РїРѕРёСЃРєР° РґР°РЅРЅС‹С… РґР»СЏ СЂРѕСЃСЃРёР№СЃРєРёС… РѕР±С‰РµРґРѕСЃС‚СѓРїРЅС‹С… РґР°РЅРЅС‹С…
 
-Карты данных Информационной культуры были созданы в 2018 и были опубликованы на сайте https://www.infoculture.ru/2018/12/10/datamaps/ в виде PDF файлов для печати для хакатонов.
-Изначально они создавались в программе XMind и включают ссылки на источники данных и сайты для задач data discovery (нахождения данных) для проектов создаваемых на базе открытых данных.
+РљР°СЂС‚С‹ РґР°РЅРЅС‹С… РРЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕР№ РєСѓР»СЊС‚СѓСЂС‹ Р±С‹Р»Рё СЃРѕР·РґР°РЅС‹ РІ 2018 Рё Р±С‹Р»Рё РѕРїСѓР±Р»РёРєРѕРІР°РЅС‹ РЅР° СЃР°Р№С‚Рµ https://www.infoculture.ru/2018/12/10/datamaps/ РІ РІРёРґРµ PDF С„Р°Р№Р»РѕРІ РґР»СЏ РїРµС‡Р°С‚Рё РґР»СЏ С…Р°РєР°С‚РѕРЅРѕРІ.
+РР·РЅР°С‡Р°Р»СЊРЅРѕ РѕРЅРё СЃРѕР·РґР°РІР°Р»РёСЃСЊ РІ РїСЂРѕРіСЂР°РјРјРµ XMind Рё РІРєР»СЋС‡Р°СЋС‚ СЃСЃС‹Р»РєРё РЅР° РёСЃС‚РѕС‡РЅРёРєРё РґР°РЅРЅС‹С… Рё СЃР°Р№С‚С‹ РґР»СЏ Р·Р°РґР°С‡ data discovery (РЅР°С…РѕР¶РґРµРЅРёСЏ РґР°РЅРЅС‹С…) РґР»СЏ РїСЂРѕРµРєС‚РѕРІ СЃРѕР·РґР°РІР°РµРјС‹С… РЅР° Р±Р°Р·Рµ РѕС‚РєСЂС‹С‚С‹С… РґР°РЅРЅС‹С….
 
-Этот репозиторий включает карты данных в форматах XMind, их вариант для печати, в PDF, изображения в формате PNG и машиночитаемую версию в формате JSON.
+Р­С‚РѕС‚ СЂРµРїРѕР·РёС‚РѕСЂРёР№ РІРєР»СЋС‡Р°РµС‚ РєР°СЂС‚С‹ РґР°РЅРЅС‹С… РІ С„РѕСЂРјР°С‚Р°С… XMind, РёС… РІР°СЂРёР°РЅС‚ РґР»СЏ РїРµС‡Р°С‚Рё, РІ PDF, РёР·РѕР±СЂР°Р¶РµРЅРёСЏ РІ С„РѕСЂРјР°С‚Рµ PNG Рё РјР°С€РёРЅРѕС‡РёС‚Р°РµРјСѓСЋ РІРµСЂСЃРёСЋ РІ С„РѕСЂРјР°С‚Рµ JSON.
 
-Если Вы хотите дополнить опубликованное, нашли ошибку или неточность, зарегистрируйте [pull request](https://github.com/infoculture/ru-datamaps/pulls) или заявку в [issues](https://github.com/infoculture/ru-datamaps/issues)
+Р•СЃР»Рё Р’С‹ С…РѕС‚РёС‚Рµ РґРѕРїРѕР»РЅРёС‚СЊ РѕРїСѓР±Р»РёРєРѕРІР°РЅРЅРѕРµ, РЅР°С€Р»Рё РѕС€РёР±РєСѓ РёР»Рё РЅРµС‚РѕС‡РЅРѕСЃС‚СЊ, Р·Р°СЂРµРіРёСЃС‚СЂРёСЂСѓР№С‚Рµ [pull request](https://github.com/infoculture/ru-datamaps/pulls) РёР»Рё Р·Р°СЏРІРєСѓ РІ [issues](https://github.com/infoculture/ru-datamaps/issues)
 
-## Карты данных в редакции 2018 года
+## РљР°СЂС‚С‹ РґР°РЅРЅС‹С… РІ СЂРµРґР°РєС†РёРё 2018 РіРѕРґР°
 
-### В формате XMind
+### Р’ С„РѕСЂРјР°С‚Рµ XMind
 
-* Авиация и авиастроение - [begtin_avia_map_ru_v02.xmind](2018-edition/xmind/begtin_avia_map_ru_v02.xmind) 
-* Экология - [begtin_ecology_map_v02.xmind](2018-edition/xmind/begtin_ecology_map_v02.xmind)
-* Образование - [begtin_edu_map_ru_v02.xmind](2018-edition/xmind/begtin_edu_map_ru_v02.xmind)
-* Государственные финансы - [begtin_finportals_map_ru_v03.xmind](2018-edition/xmind/begtin_finportals_map_ru_v03.xmind)
-* Здравоохранение - [begtin_health_map_ru_v02.xmind](2018-edition/xmind/begtin_health_map_ru_v02.xmind)
-* Законодательство и законотворчество - [begtin_law_map_v02.xmind](2018-edition/xmind/begtin_law_map_v02.xmind)
-* Некоммерческие организации - [begtin_ngo_map_draft_v02.xmind](2018-edition/xmind/begtin_ngo_map_draft_v02.xmind)
-* Нефтегазовая промышленность и добыча - [begtin_oil_map_ru_v02.xmind](2018-edition/xmind/begtin_oil_map_ru_v02.xmind)
-* Правоохранительные органы - [begtin_police_map_ru_v01.xmind](2018-edition/xmind/begtin_police_map_ru_v01.xmind)
+* РђРІРёР°С†РёСЏ Рё Р°РІРёР°СЃС‚СЂРѕРµРЅРёРµ - [begtin_avia_map_ru_v02.xmind](2018-edition/xmind/begtin_avia_map_ru_v02.xmind) 
+* Р­РєРѕР»РѕРіРёСЏ - [begtin_ecology_map_v02.xmind](2018-edition/xmind/begtin_ecology_map_v02.xmind)
+* РћР±СЂР°Р·РѕРІР°РЅРёРµ - [begtin_edu_map_ru_v02.xmind](2018-edition/xmind/begtin_edu_map_ru_v02.xmind)
+* Р“РѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅС‹Рµ С„РёРЅР°РЅСЃС‹ - [begtin_finportals_map_ru_v03.xmind](2018-edition/xmind/begtin_finportals_map_ru_v03.xmind)
+* Р—РґСЂР°РІРѕРѕС…СЂР°РЅРµРЅРёРµ - [begtin_health_map_ru_v02.xmind](2018-edition/xmind/begtin_health_map_ru_v02.xmind)
+* Р—Р°РєРѕРЅРѕРґР°С‚РµР»СЊСЃС‚РІРѕ Рё Р·Р°РєРѕРЅРѕС‚РІРѕСЂС‡РµСЃС‚РІРѕ - [begtin_law_map_v02.xmind](2018-edition/xmind/begtin_law_map_v02.xmind)
+* РќРµРєРѕРјРјРµСЂС‡РµСЃРєРёРµ РѕСЂРіР°РЅРёР·Р°С†РёРё - [begtin_ngo_map_draft_v02.xmind](2018-edition/xmind/begtin_ngo_map_draft_v02.xmind)
+* РќРµС„С‚РµРіР°Р·РѕРІР°СЏ РїСЂРѕРјС‹С€Р»РµРЅРЅРѕСЃС‚СЊ Рё РґРѕР±С‹С‡Р° - [begtin_oil_map_ru_v02.xmind](2018-edition/xmind/begtin_oil_map_ru_v02.xmind)
+* РџСЂР°РІРѕРѕС…СЂР°РЅРёС‚РµР»СЊРЅС‹Рµ РѕСЂРіР°РЅС‹ - [begtin_police_map_ru_v01.xmind](2018-edition/xmind/begtin_police_map_ru_v01.xmind)
 
-### В других форматах
+### Р’ РґСЂСѓРіРёС… С„РѕСЂРјР°С‚Р°С…
 
-* [PNG](2018-edition/png) - в виде изображений PNG
-* [PDF](2018-edition/pdf) - подгтовленные для печати в pdf
-* [JSON](2018-edition/png) - в машиночитаемых форматах (JSON)
+* [PNG](2018-edition/png) - РІ РІРёРґРµ РёР·РѕР±СЂР°Р¶РµРЅРёР№ PNG
+* [PDF](2018-edition/pdf) - РїРѕРґРіС‚РѕРІР»РµРЅРЅС‹Рµ РґР»СЏ РїРµС‡Р°С‚Рё РІ pdf
+* [JSON](2018-edition/png) - РІ РјР°С€РёРЅРѕС‡РёС‚Р°РµРјС‹С… С„РѕСЂРјР°С‚Р°С… (JSON)
