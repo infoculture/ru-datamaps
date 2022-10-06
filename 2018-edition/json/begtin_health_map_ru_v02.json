@@ -1,0 +1,327 @@
+[
+  {
+    "title": "Map 1",
+    "topic": {
+      "title": "\u0414\u0430\u043d\u043d\u044b\u0435 \u0432 \n\u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0438",
+      "topics": [
+        {
+          "title": "1. \u0413\u0434\u0435 \u043d\u0430\u0439\u0442\u0438 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0443 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438?",
+          "topics": [
+            {
+              "title": "gks.ru"
+            },
+            {
+              "title": "fedstat.ru"
+            },
+            {
+              "title": "rosminzdrav.ru"
+            },
+            {
+              "title": "egisz.rosminzdrav.ru"
+            },
+            {
+              "title": "62old.rosminzdrav.ru"
+            },
+            {
+              "title": "svod.rosminzdrav.ru"
+            },
+            {
+              "title": "profmed.rosminzdrav.ru"
+            },
+            {
+              "title": "vmp.rosminzdrav.ru"
+            },
+            {
+              "title": "dpc.rosminzdrav.ru"
+            }
+          ]
+        },
+        {
+          "title": "2. \u0413\u0434\u0435 \u043d\u0430\u0439\u0442\u0438 \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0435 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u0435\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u0432 \u043c\u0438\u0440\u0435?",
+          "topics": [
+            {
+              "title": "data.worldbank.org"
+            },
+            {
+              "title": "who.int"
+            },
+            {
+              "title": "data.un.org"
+            }
+          ]
+        },
+        {
+          "title": "3. \u0413\u0434\u0435 \u043d\u0430\u0439\u0442\u0438 \u0434\u0430\u043d\u043d\u044b\u0435 \u043e \u0433\u043e\u0441\u0431\u044e\u0434\u0436\u0435\u0442\u0435 \u043d\u0430 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435?",
+          "topics": [
+            {
+              "title": "budget.gov.ru"
+            },
+            {
+              "title": "minfin.ru"
+            },
+            {
+              "title": "roskazna.ru"
+            },
+            {
+              "title": "zakupki.gov.ru"
+            },
+            {
+              "title": "programs.gov.ru"
+            },
+            {
+              "title": "zakupki.rosminzdrav.ru"
+            },
+            {
+              "title": "finotchet.roszdravnadzor.ru"
+            }
+          ]
+        },
+        {
+          "title": "4. \u0413\u0434\u0435 \u043d\u0430\u0439\u0442\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e \u0440\u0430\u0441\u0445\u043e\u0434\u0430\u0445 \u0438 \u0434\u043e\u0445\u043e\u0434\u0430\u0445 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u043c\u0435\u0434\u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u0439?",
+          "topics": [
+            {
+              "title": "bus.gov.ru"
+            },
+            {
+              "title": "zakupki.gov.ru"
+            },
+            {
+              "title": "\u0441\u0442\u0430\u0442\u0440\u0435\u0433\u0438\u0441\u0442\u0440 \u0420\u043e\u0441\u0441\u0442\u0430\u0442\u0430"
+            }
+          ]
+        },
+        {
+          "title": "5. \u0413\u0434\u0435 \u043d\u0430\u0439\u0442\u0438 \u0431\u0430\u0437\u043e\u0432\u0443\u044e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e\u0431 \u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u044f\u0445 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f?",
+          "topics": [
+            {
+              "title": "roszdravnadzor.ru"
+            },
+            {
+              "title": "ffoms.ru"
+            },
+            {
+              "title": "egrul.nalog.ru"
+            },
+            {
+              "title": "bus.gov.ru"
+            },
+            {
+              "title": "nsi.rosminzdrav.ru"
+            }
+          ]
+        },
+        {
+          "title": "6. \u0413\u0434\u0435 \u043d\u0430\u0439\u0442\u0438 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0443 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u0438?",
+          "topics": [
+            {
+              "title": "mednet.ru"
+            },
+            {
+              "title": "\u0441\u0438\u0441\u0442\u0435\u043c\u044b \u041c\u0418\u0410\u0426 \u0441\u0443\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438"
+            }
+          ]
+        },
+        {
+          "title": "7. \u0413\u0434\u0435 \u043d\u0430\u0439\u0442\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0445 \u0438\u0437\u0434\u0435\u043b\u0438\u044f\u0445?",
+          "topics": [
+            {
+              "title": "mdmi.roszdravnadzor.ru"
+            },
+            {
+              "title": "mcmi.roszdravnadzor.ru"
+            },
+            {
+              "title": "mdmi.roszdravnadzor.ru"
+            },
+            {
+              "title": "roszdravnadzor.ru (micode_price)"
+            },
+            {
+              "title": "roszdravnadzor.ru (mi_prices)"
+            },
+            {
+              "title": "roszdravnadzor.ru (clinic)"
+            }
+          ]
+        },
+        {
+          "title": "8. \u0413\u0434\u0435 \u043d\u0430\u0439\u0442\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e \u043b\u0435\u043a\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430\u0445?",
+          "topics": [
+            {
+              "title": "rlsnet.ru"
+            },
+            {
+              "title": "grls.rosminzdrav.ru"
+            },
+            {
+              "title": "roszdravnadzor.ru (Turnover)"
+            },
+            {
+              "title": "roszdravnadzor.ru (lssearch)"
+            },
+            {
+              "title": "mcls.roszdravnadzor.ru"
+            },
+            {
+              "title": "mkils.roszdravnadzor.ru"
+            },
+            {
+              "title": "npr.roszdravnadzor.ru"
+            },
+            {
+              "title": "vk.roszdravnadzor.ru"
+            },
+            {
+              "title": "mols.roszdravnadzor.ru"
+            },
+            {
+              "title": "vls.rosminzdrav.ru"
+            },
+            {
+              "title": "mkls.roszdravnadzor.ru"
+            }
+          ]
+        },
+        {
+          "title": "9. \u0413\u0434\u0435 \u0443\u0437\u043d\u0430\u0442\u044c \u043e \u0440\u0430\u0441\u0445\u043e\u0434\u0430\u0445 \u0438 \u0437\u0430\u043a\u0443\u043f\u043a\u0430\u0445 \u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u0439 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f?",
+          "topics": [
+            {
+              "title": "zakupki.gov.ru"
+            },
+            {
+              "title": "clearspending.ru"
+            },
+            {
+              "title": "bus.gov.ru"
+            },
+            {
+              "title": "zakupki.rosminzdrav.ru"
+            }
+          ]
+        },
+        {
+          "title": "10. \u0413\u0434\u0435 \u043d\u0430\u0439\u0442\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e \u0434\u043e\u0445\u043e\u0434\u0430\u0445 \u0444\u0430\u0440\u043c. \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u0440\u044b\u043d\u043a\u0430 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f?",
+          "topics": [
+            {
+              "title": "zakupki.gov.ru"
+            },
+            {
+              "title": "clearspending.ru"
+            },
+            {
+              "title": "\u0441\u0442\u0430\u0442\u0440\u0435\u0433\u0438\u0441\u0442\u0440 \u0420\u043e\u0441\u0441\u0442\u0430\u0442\u0430"
+            },
+            {
+              "title": "\u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0430\u0439\u0442\u044b \n\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439"
+            }
+          ]
+        },
+        {
+          "title": "11. \u0413\u0434\u0435 \u043d\u0430\u0439\u0442\u0438 \u0441\u043f\u0440\u0430\u0432\u043e\u0447\u043d\u0438\u043a\u0438 \u0432 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0438?",
+          "topics": [
+            {
+              "title": "nsi.rosminzdrav.ru"
+            }
+          ]
+        },
+        {
+          "title": "12. \u0413\u0434\u0435 \u043d\u0430\u0439\u0442\u0438 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u0438 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0445 \u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u0439?",
+          "topics": [
+            {
+              "title": "egisz.rosminzdrav.ru"
+            },
+            {
+              "title": "\u0441\u0430\u0439\u0442\u044b \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u043e\u0432\n\u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0441\u0443\u0431\u044a\u0435\u043a\u0442\u043e\u0432\n\u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438"
+            }
+          ]
+        },
+        {
+          "title": "13. \u0413\u0434\u0435 \u043d\u0430\u0439\u0442\u0438 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u044b \u0431\u043e\u043b\u044c\u043d\u044b\u0445 \u0438 \u0438\u043d\u0432\u0430\u043b\u0438\u0434\u043e\u0432?",
+          "topics": [
+            {
+              "title": "egisz.rosminzdrav.ru"
+            },
+            {
+              "title": "sfri.ru"
+            }
+          ]
+        },
+        {
+          "title": "14. \u0413\u0434\u0435 \u043d\u0430\u0439\u0442\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e \u043a\u0443\u0440\u043e\u0440\u0442\u0430\u0445 \u0438 \u0441\u0430\u043d\u0430\u0442\u043e\u0440\u0438\u044f\u0445?",
+          "topics": [
+            {
+              "title": "kurort.rosminzdrav.ru"
+            }
+          ]
+        },
+        {
+          "title": "15. \u0413\u0434\u0435 \u043d\u0430\u0439\u0442\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u043e\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0438?",
+          "topics": [
+            {
+              "title": "sovetnmo.ru"
+            },
+            {
+              "title": "edu.rosminzdrav.ru"
+            }
+          ]
+        },
+        {
+          "title": "16. \u0413\u0434\u0435 \u043d\u0430\u0439\u0442\u0438 \u0441\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u043e \u0413\u041c\u041e?",
+          "topics": [
+            {
+              "title": "gmo.rosminzdrav.ru"
+            }
+          ]
+        },
+        {
+          "title": "17. \u0413\u0434\u0435 \u043d\u0430\u0439\u0442\u0438 \u043f\u0435\u0440\u0441\u043e\u043d\u0438\u0444\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0443\u044e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0448\u0438\u0445?",
+          "topics": [
+            {
+              "title": "stroke.rosminzdrav.ru"
+            },
+            {
+              "title": "egisz.rosminzdrav.ru"
+            },
+            {
+              "title": "\u0441\u0438\u0441\u0442\u0435\u043c\u044b \u041c\u0418\u0410\u0426 \u0441\u0443\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438"
+            },
+            {
+              "title": "\u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0435 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u0439"
+            },
+            {
+              "title": "sfri.ru"
+            }
+          ]
+        },
+        {
+          "title": "18. \u0413\u0434\u0435 \u043d\u0430\u0439\u0442\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0445 \u0440\u0430\u0431\u043e\u0442\u043d\u0438\u043a\u0430\u0445?",
+          "topics": [
+            {
+              "title": "egisz.rosminzdrav.ru"
+            }
+          ]
+        },
+        {
+          "title": "19. \u0413\u0434\u0435 \u043d\u0430\u0439\u0442\u0438 \u0440\u0435\u0435\u0441\u0442\u0440 \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0445 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0439, \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0445 \u0432 \u041e\u041c\u0421?",
+          "topics": [
+            {
+              "title": "ffoms.ru"
+            },
+            {
+              "title": "fz122.fss.ru"
+            }
+          ]
+        },
+        {
+          "title": "20. \u0413\u0434\u0435 \u043d\u0430\u0439\u0442\u0438 \u043f\u043e\u043b\u043e-\u0432\u043e\u0437\u0440\u0430\u0441\u0442\u043d\u043e\u0439 \u0441\u043e\u0441\u0442\u0430\u0432 \u043f\u0440\u0438\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f?",
+          "topics": [
+            {
+              "title": "gks.ru"
+            }
+          ]
+        }
+      ]
+    },
+    "structure": "org.xmind.ui.map.unbalanced"
+  }
+]
